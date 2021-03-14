@@ -1,0 +1,9 @@
+name: Id
+version: 1.0
+api: 3.15.1
+main: Pralex\main
+author: Pralexkid
+
+commands:
+  id:
+    description: "Trouve l'id du block dans ta main !"
